@@ -8,6 +8,7 @@ from dotenv import load_dotenv
 from src.config import load_watchlist, state_db_path
 from src.models import StockStatus
 from src.notifier.telegram import TelegramNotifier
+from src.state import StateStore
 from src.stores import check_watch
 
 logger = logging.getLogger(__name__)
