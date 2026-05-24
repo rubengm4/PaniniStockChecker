@@ -1,0 +1,73 @@
+# Add product URLs here. Set enabled: false to skip an entry.
+checks:
+  # --- panini.es (official Spain) ---
+  - id: panini_es_album_soft
+    store: panini_es
+    label: "Álbum blando WC 2026 (panini.es)"
+    url: "https://www.panini.es/shp_esp_es/fifa-world-cup-2026-official-sticker-collection-lbum-colecci-n-oficial-panini-005460aew-es01.html"
+
+  - id: panini_es_album_box50
+    store: panini_es
+    label: "Álbum + cajita 50 sobres WC 2026 (panini.es)"
+    url: "https://www.panini.es/shp_esp_es/fifa-world-cup-2026-official-sticker-collection-lbum-cajita-50-sobres-colecci-n-oficial-panini-bundle005460box50ewa-es01.html"
+
+  - id: panini_es_box50
+    store: panini_es
+    label: "Cajita 50 sobres WC 2026 (panini.es)"
+    url: "https://www.panini.es/shp_esp_es/fifa-world-cup-2026-official-sticker-collection-cajita-de-50-sobres-colecci-n-oficial-panini-005460box50ew-es01.html"
+
+  - id: panini_es_blister8
+    store: panini_es
+    label: "Blister 8 sobres WC 2026 (panini.es)"
+    url: "https://www.panini.es/shp_esp_es/fifa-world-cup-2026-official-sticker-blister-8-sobres-colecci-n-oficial-panini-005460kbe8w-es01.html"
+
+  # --- paninistore.com (intl shop, ships to ES) ---
+  - id: paninistore_soft_album_100
+    store: paninistore
+    label: "Pack 100 sobres + álbum blando (paninistore)"
+    url: "https://paninistore.com/shp_int_en/the-panini-fifa-world-cup-2026-official-sticker-collection-is-here-1-box-of-100-packets-and-a-soft-cover-album-bundle005460b100aexp-it.html"
+
+  - id: paninistore_box50
+    store: paninistore
+    label: "Caja 50 sobres WC 2026 (paninistore)"
+    url: "https://paninistore.com/shp_int_en/the-panini-fifa-world-cup-2026-official-sticker-collection-is-here-box-of-50-packets-bundle005460b7bexp50-it.html"
+
+  # --- El Corte Inglés ---
+  - id: eci_ecoblister_8
+    store: eci
+    label: "Ecoblister 8 sobres WC 2026 (ECI)"
+    url: "https://www.elcorteingles.es/juguetes/A200809967-ecoblister-8-sobres-mundial-2026-panini/"
+
+  - id: eci_starter_album_4
+    store: eci
+    label: "Starter álbum + 4 sobres WC 2026 (ECI)"
+    url: "https://www.elcorteingles.es/juguetes/A200809966-starter-album-y-4-sobres-mundial-2026-panini/"
+
+  - id: eci_sobre_cromos
+    store: eci
+    label: "Sobre cromos WC 2026 (ECI)"
+    url: "https://www.elcorteingles.es/juguetes/A200809965-sobre-cromos-mundial-2026-panini/"
+
+  # --- Juguettos ---
+  - id: juguettos_starter_album_4
+    store: juguettos
+    label: "Starter álbum + 4 sobres WC 2026 (Juguettos)"
+    url: "https://juguettos.com/panini/97922-panini-world-cup-2026-starter-pack-album-con-4-sobres-de-cromos-8424248927523.html"
+
+  - id: juguettos_caja_50_sobres
+    store: juguettos
+    label: "Caja 50 sobres WC 2026 (Juguettos)"
+    url: "https://juguettos.com/panini/97921-panini-world-cup-2026-caja-con-50-sobres-de-cromos-varios-modelos-8051708031126.html"
+
+  # --- Toy Planet ---
+  - id: toyplanet_starter_album_4
+    store: toyplanet
+    label: "Starter álbum + 4 sobres WC 2026 (Toy Planet)"
+    url: "https://www.toyplanet.com/products/starter-pack-fifa-world-cup-2026-album-4-sobres-panini"
+
+  # --- Amazon.es (paste ASIN URLs; often blocked from GitHub) ---
+  - id: amazon_es_placeholder
+    store: amazon_es
+    label: "Amazon.es — replace URL (example disabled)"
+    url: "https://www.amazon.es/dp/EXAMPLE"
+    enabled: false
