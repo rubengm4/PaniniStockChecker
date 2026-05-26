@@ -2,7 +2,7 @@ name: Check Panini stock
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "58 * * * *"
   workflow_dispatch:
 
 jobs:
